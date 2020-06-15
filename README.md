@@ -13,7 +13,7 @@ set html rem
 ## Quick Start
 
 ```js
-import setRem from 'setrem'
+import setRem from 'set-html-rem'
 setRem(375)
 ```
 

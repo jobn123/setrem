@@ -1,13 +1,13 @@
 {
-  "name": "setrem",
-  "version": "1.0.0",
+  "name": "set-html-rem",
+  "version": "1.0.1",
   "homepage": "https://github.com/jobn123/setrem.git",
   "repository": "https://github.com/jobn123/setrem.git",
   "bugs": "https://github.com/jobn123/setrem.git/issues",
   "license": "MIT",
   "description": "set html rem",
   "keywords": [
-    "setrem"
+    "setrem html rem"
   ],
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
