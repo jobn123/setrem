@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-<pre align="center">npm i setrem</pre>
+<pre align="center">npm i set-html-rem</pre>
 <hr>
 
 set html rem
