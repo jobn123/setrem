@@ -1,9 +1,9 @@
 {
   "name": "setrem",
   "version": "1.0.0",
-  "homepage": "https://github.com/LH111/setrem#readme",
-  "repository": "github:LH111/setrem",
-  "bugs": "https://github.com/LH111/setrem/issues",
+  "homepage": "https://github.com/jobn123/setrem.git",
+  "repository": "https://github.com/jobn123/setrem.git",
+  "bugs": "https://github.com/jobn123/setrem.git/issues",
   "license": "MIT",
   "description": "set html rem",
   "keywords": [
